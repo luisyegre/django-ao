@@ -1,0 +1,9 @@
+una organizacion se registra para llevar un control de sus citas 
+entonces una vez registrado este puede angendarlas
+al agendar se registra para una fecha y hora determinada
+
+las acciones:
+    1) poder listarlas
+    2) poder buscarlas por id o por organizacion
+    2) poder crrar citas a travez de la api
+    
